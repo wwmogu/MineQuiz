@@ -31,6 +31,9 @@ The "MineQuiz" is inspired by the phone APP "Quizlet". You can store your questi
 
 `$ make run`
 
+## Detail about this project
+> Please go to Readme/PDF
+
 ## Contact  me
 
 If you find any problems or code that could be improved, feel free to submit an issue!
