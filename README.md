@@ -7,7 +7,7 @@
 The "MineQuiz" is inspired by the phone APP "Quizlet". You can store your questions into three differen subjects (OOP, ISE, LFS). Help you easily review your own questions at any time.
 ## How to run it? (for Mac, Ubuntu and RedHat)
 
-####1. Download "ncurses" Libary in your computer
+#### 1. Download "ncurses" Libary in your computer
 
 > On Ubuntu
 
