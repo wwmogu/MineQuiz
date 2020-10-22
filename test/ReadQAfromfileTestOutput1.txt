@@ -1,0 +1,8 @@
+Concept: To put things into groups and categories.
+Answer: classify
+Concept: No longer any living members of a species.
+Answer: extinct
+Concept: A certain kind of animal or plant.
+Answer: species
+Concept: An action or event that leads to a certain result.
+Answer: process

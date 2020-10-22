@@ -1,0 +1,3 @@
+A structured set of activities required to develop a software system.
+specification, design and implementation, validation, evolution.
+The requirements which are characteristic of a particular category or domain of projects.

@@ -1,0 +1,10 @@
+// This text will stroe the number of question stored in each of subject
+eg:
+3   // OOP has 3 questions now
+2   // ISE has 2
+4   // MDS has 4
+
+3 2 4 will read from this text file into an 
+ array[number of subjects] = {3, 2, 4}
+
+ 4

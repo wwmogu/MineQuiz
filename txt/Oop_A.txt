@@ -1,0 +1,6 @@
+Object oriented programming.
+virtual function() = 0;
+Reduce the repeated work for developer.
+Encapsulation, Inheritance, Polymorphism.
+A class is a user-defined data type.
+The answer for the first test questions !

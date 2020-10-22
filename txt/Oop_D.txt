@@ -1,0 +1,6 @@
+What is the OOP stand for ?
+How to make a pure virtual function ?
+What can Makefile do ?
+The name of three major part of the OOP ?
+What is a class in cpp ?
+A Question for test add question destribtion!!!!
