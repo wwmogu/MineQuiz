@@ -1,6 +1,8 @@
 # MineQuiz
 
-> A cpp project for Object-oriented programming course in UNI_ADL.
+> **A cpp project for Object-oriented programming course in UNI_ADL.**
+
+> ![mainwinShow](Readme/mainwinShow.png)
 ----
 ## Introduction
 
